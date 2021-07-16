@@ -10,7 +10,7 @@
 
 这是一个用于生成[风间琪爱儿](https://zh.moegirl.org.cn/%E9%A3%8E%E9%97%B4%E7%90%AA%E7%88%B1%E5%84%BF)切噜语的PHP类。
 
-![](C:\Users\hwt\Desktop\cheru-php\cheru-php\resources\cheru.jpg)
+![](https://github.com/bdgroup-lab/cheru-php/raw/main/resources/cheru.jpg)
 
 ------
 
